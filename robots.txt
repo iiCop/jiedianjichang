@@ -1,0 +1,2 @@
+# robots.txt generated at http://www.waytomilky.com/ 
+Sitemap: https://www.xn--mes358am8glqs.com/sitemap.xml
